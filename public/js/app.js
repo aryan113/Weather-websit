@@ -1,4 +1,4 @@
-console.log('clint side javaScript is created')
+
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
